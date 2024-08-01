@@ -7,3 +7,4 @@ tomcat:8
 # --platform=linux/arm64 xiaoyaliu/alist
 joxit/docker-registry-ui:main
 registry:2.8.2
+kodcloud/kodbox
